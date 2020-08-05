@@ -29,7 +29,7 @@
 <br />
 <br/>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushagg31&show_icons=true&theme=radical" alt="ayushagg31" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayushagg31&show_icons=true" alt="ayushagg31" />
 </p>
 
 ####  Contact Me :speech_balloon:
