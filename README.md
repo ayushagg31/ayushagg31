@@ -1,7 +1,7 @@
 ### Hi there, I'm Ayush - aka [gozmit][website] 👋
 
 #### I'm a Full Stack Developer
-- 🔭 I’m currently working on [Trellis][Trellis], a Trello clone
+- 🔭 I’m currently working on [Trellis][Trellis], a Trello clone build in MERN stack
 - 🌱 I’m currently learning Redux, RxJs and Kubernetes.
 - 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🥅 2020 Goals: Contribute more to Open Source projects
