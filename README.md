@@ -38,7 +38,7 @@
 <br/>
 
 <p align="center"> 
-  Visitors<br/> 
+  <strong>Visitors</strong><br/> 
   <img src="https://profile-counter.glitch.me/ayushagg31/count.svg" />
 </p>
    
