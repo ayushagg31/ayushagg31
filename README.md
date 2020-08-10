@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me about **React, Redux, NodeJs, anything Cloud or life in general!**
 - ⚡ Fun fact: In my free time, I read about History and Space
-- 📫 How to reach me: Say Hi! @ `agg.ayush.1997@gmail.com`
+- 📫 How to reach me: Say Hi! @ `hello@ayushaggarwal.com`
 
 <br/>
 
@@ -51,5 +51,5 @@
 
 [website]: https://ayushaggarwal.com/
 [linkedin]: https://www.linkedin.com/in/ayush-aggarwal-b13a92120/
-[Gmail]: agg.ayush.1997@gmail.com
+[Gmail]: hello@ayushaggarwal.com
 [Trellis]: https://github.com/ayushagg31/Trellis
