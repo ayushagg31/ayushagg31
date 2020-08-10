@@ -34,7 +34,7 @@
 
 ####  Contact Me :speech_balloon:
 [![Website Badge](https://img.shields.io/badge/-ayushaggarwal.com-38B2AC?style=flat&logo=Google-Chrome&logoColor=white&link=)](https://ayushaggarwal.com)
-[![Linkedin Badge](https://img.shields.io/badge/-ayushagg31-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ayush-aggarwal-b13a92120/) [![Gmail Badge](https://img.shields.io/badge/hello@ayushaggarwal.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:agg.ayush.1997@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ayushagg31-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ayush-aggarwal-b13a92120/) [![Gmail Badge](https://img.shields.io/badge/hello@ayushaggarwal.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:hello@ayushaggarwal.com)
 <br/>
 
 <p align="center"> 
