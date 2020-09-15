@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Trellis][Trellis], a Trello clone build in MERN stack
 - 🌱 I’m currently learning Redux, RxJs and Kubernetes.
 - 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Open Source projects and survive it.
 - 💬 Ask me about **React, Redux, NodeJs, anything Cloud or life in general!**
 - ⚡ Fun fact: In my free time, I read about History and Space
 - 📫 How to reach me: Say Hi! @ `hello@ayushaggarwal.com`
