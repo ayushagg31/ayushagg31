@@ -1,13 +1,10 @@
 ### Hi there, I'm Ayush - aka [gozmit][website] 👋
 
-#### I'm a Full Stack Developer | Open-Sourcer | Space Enthusiast | History buff
+#### I'm a Frontend Developer
 
-- 🔭 I’m currently working on [Trellis][Trellis], a Trello clone build in MERN stack
-- 🌱 I’m currently learning RxJS, UI/UX Design and Kubernetes.
-- 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🥅 2020 Goals: Contribute more to Open Source projects and survive it.
-- 💬 Ask me about **React, Redux, NodeJs, anything Cloud or life in general!**
-- ⚡ Fun fact: In my free time, I read about History and Space
+- 🔭 I’m currently looking for interested ideas to work on.
+- 💬 Ask me about **Programming, or life in general!**
+- ⚡ Fun fact: In my free time, I learn about VFX, 3D animations.
 - 📫 How to reach me: Say Hi! @ `hello@ayushaggarwal.com`
 
 <br/>
