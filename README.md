@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently looking for interesting ideas to work on.
 - 💬 Ask me about **Programming, or life in general!**
-- ⚡ Fun fact: In my free time, I learn about VFX, 3D animations.
+- ⚡ In my free time, I learn about VFX, 3D animations.
 - 📫 How to reach me: Say **Hi** at `agg.ayush.1997@gmail.com`
 
 <br/>
