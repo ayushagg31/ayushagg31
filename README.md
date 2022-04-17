@@ -3,8 +3,8 @@
 #### I'm a Frontend Developer
 
 - 🔭 I’m currently looking for interesting ideas to work on.
-- 💬 Ask me about **Programming, or life in general!**
-- ⚡ In my free time, I learn about VFX, 3D animations.
+- ⚡ Exploring Pixel Design, Generative Art and TypeScript these days.
+- 💬 Ask me anythin about **Programming, or life in general!**
 - 📫 How to reach me: Say **Hi** at `agg.ayush.1997@gmail.com`
 
 <br/>
@@ -15,13 +15,13 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/ayushagg31/portfolio-app/master/src/assets/images/gcp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/ayushagg31/portfolio-app/master/src/assets/images/scraping.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/ayushagg31/portfolio-app/master/src/assets/images/db.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/ayushagg31/portfolio-app/master/src/assets/images/linux.png"></code>
+and lot more...
 
 <br />
 <br/>
@@ -31,7 +31,7 @@
 
 ####  Contact Me :speech_balloon:
 [![Website Badge](https://img.shields.io/badge/-ayushaggarwal.com-38B2AC?style=flat&logo=Google-Chrome&logoColor=white&link=)](https://ayushaggarwal.com)
-[![Linkedin Badge](https://img.shields.io/badge/-ayushagg31-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ayush-aggarwal-b13a92120/) [![Gmail Badge](https://img.shields.io/badge/agg.ayush.1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:agg.ayush.1997@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ayushagg31-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ayushagg31/) [![Gmail Badge](https://img.shields.io/badge/agg.ayush.1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:agg.ayush.1997@gmail.com) 
 <br/>
 
 <p align="center"> 
@@ -47,6 +47,5 @@
 ⭐️ From [ayushagg31](https://github.com/ayushagg31)
 
 [website]: https://ayushaggarwal.com/
-[linkedin]: https://www.linkedin.com/in/ayush-aggarwal-b13a92120/
+[linkedin]: https://www.linkedin.com/in/ayushagg31/
 [Gmail]: agg.ayush.1997@gmail.com
-[Trellis]: https://github.com/ayushagg31/Trellis
