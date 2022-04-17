@@ -5,7 +5,7 @@
 - 🔭 I’m currently looking for interesting ideas to work on.
 - ⚡ Exploring Pixel Design, Generative Art and TypeScript.
 - 💬 Ask me anythin Programming, or life in general [here](https://github.com/ayushagg31/ayushagg31/issues)
-- 📫 Active on twitter these days, come say hi **[@its_gozmit](twitter)**
+- 📫 Active on twitter these days, come say hi **[@its_gozmit](https://twitter.com/its_gozmit)**
 
 <br/>
 
@@ -30,7 +30,7 @@ and lot more...
 </p>
 
 ####  Contact Me :speech_balloon:
-[![Website Badge](https://img.shields.io/badge/-ayushaggarwal.com-38B2AC?style=flat&logo=Google-Chrome&logoColor=white&link=)](website)
+[![Website Badge](https://img.shields.io/badge/-ayushaggarwal.com-38B2AC?style=flat&logo=Google-Chrome&logoColor=white&link=)](https://ayushaggarwal.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-ayushagg31-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ayushagg31/) [![Gmail Badge](https://img.shields.io/badge/agg.ayush.1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:agg.ayush.1997@gmail.com) 
 <br/>
 
@@ -49,4 +49,4 @@ and lot more...
 [website]: https://ayushaggarwal.com/
 [linkedin]: https://www.linkedin.com/in/ayushagg31/
 [Gmail]: agg.ayush.1997@gmail.com
-[twitter]: https://twitter.com/its_gozmit
+
