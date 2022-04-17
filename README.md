@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently looking for interesting ideas to work on.
 - ⚡ Exploring Pixel Design, Generative Art and TypeScript.
-- 💬 Ask me anythin about **Programming, or life in general** [here](https://github.com/ayushagg31/ayushagg31/issues)
+- 💬 Ask me anythin about Programming, or life in general [here](https://github.com/ayushagg31/ayushagg31/issues)
 - 📫 Active on twitter these days, come say hi **[@its_gozmit](https://twitter.com/its_gozmit)**
 
 <br/>
